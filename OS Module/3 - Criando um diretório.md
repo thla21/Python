@@ -3,7 +3,7 @@ Existem diferentes métodos disponíveis no módulo OS para criar um diretório.
 `os.mkdir()`<br>
 `os.makedirs()`<br>
 
-#### Usando `os.mkdir()`:
+### Usando `os.mkdir()`:
 
 O método `os.mkdir()` em Python é usado para criar um diretório chamado path com o modo numérico especificado. Este método gera FileExistsError se o diretório a ser criado já existir.
 

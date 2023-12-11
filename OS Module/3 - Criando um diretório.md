@@ -36,7 +36,7 @@ Diretório 'GeeksforGeeks' criado
 Diretório 'Geeks' criado
 ```
 
-### sando os.makedirs()
+### Usando os.makedirs()
 
 O método os.makedirs() em Python é usado para criar um diretório recursivamente. Isso significa que ao criar um diretório folha, se algum diretório de nível intermediário estiver faltando, o método os.makedirs() criará todos eles.
 

@@ -27,17 +27,18 @@ Apenas permanecerá p file2.txt.
 O método os.rmdir() em Python é usado para remover ou excluir um diretório vazio.<br>
 OSError será gerado se o caminho especificado não for um diretório vazio.
 
-Exemplo: suponha que os diretórios sejam `Nerd` `NerdforNerds` e `gfg`. Este código tenta remover um diretório chamado `Nerds` localizado em<br>
+Exemplo: suponha que os diretórios sejam `Nerds` `NerdsforNerds` e `gfg`. Este código tenta remover um diretório chamado `Nerds` localizado em<br>
 “D:/Pycharm projects/”. Ele usa a os.rmdir função para excluir o diretório. Se o diretório estiver vazio, ele será removido.<br>
 Se contiver arquivos ou subdiretórios, você poderá encontrar um erro.
 
 ```python
 import os 
-directory = "Geeks"
+directory = "Nerds"
 parent = "D:/Pycharm projects/"
 path = os.path.join(parent, directory) 
 os.rmdir(path) 
 ```
 
 #### Saída:
+
 

@@ -2,8 +2,8 @@ import os
 import shutil
 import time
 
-diretorio_origem = '/caminho/do/diretorio_origem'                  # Diretório de origem
-diretorio_destino = '/caminho/do/diretorio_destino'                # Diretório de destino
+diretorio_origem = 'C:\\caminho\do\diretorio_origem'                  # Diretório de origem
+diretorio_destino = 'C:\\caminho\do\diretorio_destino'                # Diretório de destino
 
 
 def clonar_arquivos(origem, destino):                              # Criamos uma nova função para clonar arquivos de um diretório para outro

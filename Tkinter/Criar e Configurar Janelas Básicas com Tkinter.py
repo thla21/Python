@@ -1,3 +1,7 @@
+########################################################################################
+###################Criar e Configurar Janelas Básicas com Tkinter#######################
+########################################################################################
+
 import tkinter as tk			importa a biblioteca tkinter e chamamos um alias nesse caso tk
 
 janela = tk.Tk()			janela recebe a bilioteca tk com o método Tk()

@@ -44,3 +44,15 @@ y = (altura_tela - altura_janela) // 2
 
 # Definir a geometria da janela 2
 segunda_janela.geometry(f"{largura_janela}x{altura_janela}+{x}+{y}")
+
+# Criar a janela principal
+janela_principal = tk.Tk()
+janela_principal.title("Janela Principal")
+janela_principal.geometry("600x500")
+
+# Configurar evento de clique na janela principal
+janela_principal.bind("<Button-1>", lambda event: abrir_segunda_janela())
+
+#Mainloop
+janela_principal.mainloop()
+

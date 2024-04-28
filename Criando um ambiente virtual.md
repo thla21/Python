@@ -16,7 +16,7 @@ python -m venv myvenv
 
 Acoselho antes de digitar este programa, entrar no diretório atual dos seus projetos
 
-3- Ppor fim ative o seu venv recém criado da seguinte maneira:
+3- Por fim ative o seu venv recém criado da seguinte maneira:
 
 ```ps
 .\myvevn\Scripts\activate

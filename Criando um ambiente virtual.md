@@ -1,4 +1,4 @@
-# Criando um ambiente virtual
+# Criando um ambiente virtual (venv)
 
 1- Abra o Powershell como Administrador da máquina e digite seguinte comando:
 

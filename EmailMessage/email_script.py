@@ -27,15 +27,3 @@ with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=safe) as smtp      	# Passa
 										# Criar um arquivo pass.txt contendo a senha de acesso ao e-mail.
 
 										# Criar um arquivo corpo_email.txt com o seguinte conteúdo
-
-"""
-Prezados, bom dia"
-
-Gostaria de solicitar uma cotação para ativos de redes wireless, conforme ficou combinado na ligação de ontem.
-
-Att,
-
-Dpto. Egenharia
-fone: (xx) xxxx-xxxx
-email: xxxxxxxxxxxxxxxxxxxx@xxxxx.com.br
-"""

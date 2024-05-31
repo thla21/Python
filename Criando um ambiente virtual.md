@@ -19,7 +19,7 @@ Acoselho antes de digitar este programa, entrar no diretório atual dos seus pro
 3- Por fim ative o seu venv recém criado da seguinte maneira:
 
 ```ps
-.\myvevn\Scripts\activate
+.\myvenv\Scripts\activate
 ```
 
 Agora estamos dentro do ambiente virtual, para verificar se deu tudo certo digite o seguinte comando:
